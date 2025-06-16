@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD94D&fontColor=ffffff&text=🚀%20Hamin%20Lee%20-%20Full%20Stack%20Developer&height=300&fontSize=45&desc=Exploring%20the%20World%20of%20Web%20Development&fontAlignY=50" width="100%">
-</p>
+
 
 <!-- 간단한 인사말 -->
 
