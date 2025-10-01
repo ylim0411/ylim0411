@@ -61,20 +61,15 @@ Here are some ideas to get you started:
 
 | 프로젝트명                    | 설명                                                      | 기술 스택                          |
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| 🛡️ **Anti-Scam Platform**     | 보험 및 물건 사기 방지 시스템 개발, 변호사 상담 연결 기능 | Java, Spring, MySQL, JS, Bootstrap |
-| 🌐 **K-Culture Travel Site**  | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공                  | HTML, CSS, jQuery, Bootstrap       |
-| 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼                         | Spring MVC, JSP, MySQL             |
-
-👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
-👉 [블로그 보기](#https://github.com/hm1211/vithamin.github.io.git)
+| 🐾 **PetRadar**     | 실종 동물을 가장 빠르게 찾는 위치 기반 플랫폼 | React, React Router, API, GitHub, Vercel |
+| 📌 **StockCast**  | 무인점포 판매·재고 최적화를 위한 지능형 ERP 시스템 | JSP, HTML/CSS, JavaScript, jQuery, Chart.js, Java(Spring), MyBatis, MySQL, API, GitHub, AWS |
+| 🐾 **PoPIC** | 기부 및 유기동물 정보 공유 플랫폼 | HTML/CSS, JavaScript, Java, React, Spring Boot, Tomcat, MySQL, IntelliJ IDEA, Visual Studio Code, GitHub |
 
 ---
 
 ### 📫 Contact
 
-- 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
-- 📝 Notion Resume : [링크 넣기](#)
-- ✉️ Email : your_email@example.com
+- ✉️ Email : yunsupin@gmail.com
 
 ---
 
